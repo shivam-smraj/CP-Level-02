@@ -1,0 +1,672 @@
+[{
+        "week": "week2- Recursion",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J",
+                        "video": "https://www.youtube.com/watch?v=ZCmWECWZOds"
+                    },
+                    {
+                        "problem": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q",
+                        "video": "https://www.youtube.com/watch?v=ofw5DAhdoYI"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/subsets/description/",
+                        "video": "https://www.youtube.com/watch?v=TwZ7zoRoYvE"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/subsets-ii/",
+                        "video": "https://www.youtube.com/watch?v=zx0xq_Zvkt8"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/N",
+                        "video": "https://www.youtube.com/watch?v=ZZZYaMqgBl8"
+                    },
+                    {
+                        "problem": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U",
+                        "video": "https://www.youtube.com/watch?v=I6xpBYr9H08"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X",
+                        "video": "https://www.youtube.com/watch?v=MHZwfARa6do"
+                    },
+                    {
+                        "problem": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/V",
+                        "video": "https://www.youtube.com/watch?v=IKSl_L7VRMM"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/palindrome-partitioning/description/",
+                        "video": "https://www.youtube.com/watch?v=n6mrFNQZCcU"
+                    },
+                    {
+                        "problem": "https://cses.fi/problemset/task/1622",
+                        "video": "https://www.youtube.com/watch?v=BuZJR-WH3qU"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "week": "week3- Backtracking",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/combination-sum/",
+                        "video": "https://www.youtube.com/watch?v=r5MBU6ny7k0"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/combination-sum-ii/",
+                        "video": "https://www.youtube.com/watch?v=ivN7BqHhGGo"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+                        "video": "https://www.youtube.com/watch?v=A7PgjiINiX4"
+                    },
+                    {
+                        "problem": "https://practice.geeksforgeeks.org/problems/sum-string3151/1",
+                        "video": "https://www.youtube.com/watch?v=NUe7UF6DUhQ"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/n-queens/",
+                        "video": "https://www.youtube.com/watch?v=Ff3iVbxMXYA"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/generate-parentheses/",
+                        "video": "https://www.youtube.com/watch?v=Kz0ylQ1sQHk"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/sudoku-solver/description/",
+                        "video": "https://www.youtube.com/watch?v=1mrcV0Iw3ug"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/restore-ip-addresses/description/",
+                        "video": "https://www.youtube.com/watch?v=yRngKgN49Fc"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/different-ways-to-add-parentheses/",
+                        "video": "https://www.youtube.com/watch?v=_rOGncRutRY"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/word-search/description/",
+                        "video": "https://www.youtube.com/watch?v=EMlu1ogU0V4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "week": "week4- Bit Manipulation 1",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1421/A",
+                        "video": "https://www.youtube.com/watch?v=vhxN_3F4Pas"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/579/A",
+                        "video": "https://www.youtube.com/watch?v=VoIG8A0JWFA"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1514/B",
+                        "video": "https://www.youtube.com/watch?v=lgS-P_zaQBo"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1202/A",
+                        "video": "https://www.youtube.com/watch?v=KLMHzxQyKQU"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1362/B",
+                        "video": "https://www.youtube.com/watch?v=oP-2rpHfYus"
+                    },
+                    {
+                        "problem": "https://www.codechef.com/submit/ANDSUBAR",
+                        "video": "https://www.youtube.com/watch?v=P5S_bFBrDN0"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://www.codechef.com/submit/XXOORR",
+                        "video": "https://www.youtube.com/watch?v=JTQm4YEE_fQ"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1547/D",
+                        "video": "https://www.youtube.com/watch?v=VCKuxYP0muc&feature=youtu.be"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1726/B",
+                        "video": "https://www.youtube.com/watch?v=FiDAhpBoKTU"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1312/C",
+                        "video": "https://www.youtube.com/watch?v=4CzaqlC4WB8&feature=youtu.be"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1742/G",
+                        "video": "https://www.youtube.com/watch?v=nMnFPGlw42Y"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1722/G",
+                        "video": "https://www.youtube.com/watch?v=6Q4w2SoNMok"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1669/H",
+                        "video": "https://www.youtube.com/watch?v=wTrHvfK5nlc"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "week": "week5- bit manipulation 2",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1095/C",
+                        "video": "https://www.youtube.com/watch?v=bIfszaM7580"
+                    },
+                    {
+                        "problem": "https://www.codechef.com/problems/ORTUPLES",
+                        "video": "https://www.youtube.com/watch?v=wm-M1-jp7dI"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://www.codechef.com/problems/XORMUL",
+                        "video": "https://www.youtube.com/watch?v=y8P9bPcp7-A"
+                    },
+                    {
+                        "problem": "https://www.codechef.com/problems/ANDORUNI",
+                        "video": "https://www.youtube.com/watch?v=m-vhJk32Rqc"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1362/C",
+                        "video": "https://www.youtube.com/watch?v=rd6ls0E6AVA"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1601/A",
+                        "video": "https://www.youtube.com/watch?v=xYbyUM3njlI"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1567/B",
+                        "video": "https://www.youtube.com/watch?v=i7tCh_lQxNk"
+                    },
+                    {
+                        "problem": "https://www.codechef.com/problems/XORDIF",
+                        "video": "https://www.youtube.com/watch?v=Hg40_bM8Y6k"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                        "problem": "https://www.codechef.com/problems/CHEFQUE",
+                        "video": "https://www.youtube.com/watch?v=FwqL5MPPhs8"
+                    },
+                    {
+                        "problem": "https://www.codechef.com/problems/MAKEQUAL",
+                        "video": "https://www.youtube.com/watch?v=MutGSBe6p5o"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "week": "week6- break",
+        "days": []
+    },
+    {
+        "week": "week7- number Theory 1",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://codeforces.com/contest/26/problem/A",
+                        "video": "https://www.youtube.com/watch?v=EDhn4i-jwrY"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/776/problem/B",
+                        "video": "https://www.youtube.com/watch?v=MlQ23q4gZFU"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://www.spoj.com/problems/HS08PAUL/",
+                        "video": "https://www.youtube.com/watch?v=HQappd0PFH0"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/271/problem/B",
+                        "video": "https://www.youtube.com/watch?v=mJaOM6U-gyU"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/797/A",
+                        "video": "https://www.youtube.com/watch?v=nCmY23aq7RU"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/230/B",
+                        "video": "https://www.youtube.com/watch?v=CcUQR6WGRGo"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1285/C",
+                        "video": "https://www.youtube.com/watch?v=ve8dSz0S9a0"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/1855/problem/B",
+                        "video": "https://www.youtube.com/watch?v=8hI6wVEf5Ck"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1787/B",
+                        "video": "https://www.youtube.com/watch?v=CdTN0I1l9SA"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                        "problem": "https://atcoder.jp/contests/abc284/tasks/abc284_d",
+                        "video": "https://www.youtube.com/watch?v=Yss8niTGkDQ"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/1881/problem/D",
+                        "video": "https://www.youtube.com/watch?v=bz1h2g_3lqs"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1909/B",
+                        "video": "https://www.youtube.com/watch?v=5hw-Ma1aLNc"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "week": "week8 - number theory 2",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://codeforces.com/contest/1765/problem/M",
+                        "video": "https://www.youtube.com/watch?v=It90isZlyPM"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1474/B",
+                        "video": "https://www.youtube.com/watch?v=JwDRpGe8MHI"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1360/D",
+                        "video": "https://www.youtube.com/watch?v=7Bv7Xcm0dw4"
+                    },
+                    {
+                        "problem": "https://cses.fi/problemset/task/1095/",
+                        "video": "https://www.youtube.com/watch?v=ElIFk7ouzdY"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/super-pow/description/",
+                        "video": "https://www.youtube.com/watch?v=Mbwy-FPUTCQ"
+                    },
+                    {
+                        "problem": "https://atcoder.jp/contests/abc052/tasks/arc067_a",
+                        "video": "https://www.youtube.com/watch?v=2S7VLAkMK5g"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://atcoder.jp/contests/abc215/tasks/abc215_d",
+                        "video": "https://www.youtube.com/watch?v=qj1XitgLAbE"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/count-good-numbers/description/",
+                        "video": "https://www.youtube.com/watch?v=_GGwN_Mni8o"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/1305/C",
+                        "video": "https://www.youtube.com/watch?v=EdFWOtPKvmY"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1165/D",
+                        "video": "https://www.youtube.com/watch?v=rNQtrVAvXcM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "week": "week9 - Stacks, Queues and Deques",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/valid-parentheses/description/",
+                        "video": "https://www.youtube.com/watch?v=Izqi9QHihhw"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/min-stack/description/",
+                        "video": "https://www.youtube.com/watch?v=6HWul2zJonU"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/next-greater-element-i/description/",
+                        "video": "https://www.youtube.com/watch?v=8o_o_fg2TrY"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/validate-stack-sequences/description/",
+                        "video": "https://www.youtube.com/watch?v=fRvEjRvqT0U"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+                        "video": "https://www.youtube.com/watch?v=SBqAzPgGrRw"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/remove-duplicate-letters/",
+                        "video": "https://www.youtube.com/watch?v=sJK_xdXYtwI"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+                        "video": "https://www.youtube.com/watch?v=V28fuTzNbag&feature=youtu.be"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+                        "video": "https://www.youtube.com/watch?v=Y8nbgNQJjrs"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                        "problem": "https://www.codechef.com/practice/course/zco-inoi-problems/ZCOPRAC/problems/ZCO12003",
+                        "video": "https://www.youtube.com/watch?v=_CweloTG9Dc"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1179/A",
+                        "video": "https://www.youtube.com/watch?v=ipK8ulkcrlk"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "week": "week10 - break",
+        "days": []
+    },
+    {
+        "week": "week11 - Ad hoc & Patterns",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://codeforces.com/contest/1918/problem/B",
+                        "video": "https://www.youtube.com/watch?v=StHEfB6ZBr0"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/1194/problem/A",
+                        "video": "https://www.youtube.com/watch?v=oK7fOtHTYXE"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1791/G1",
+                        "video": "https://www.youtube.com/watch?v=FlAU830Hjf8"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://codeforces.com/contest/1821/problem/B",
+                        "video": "https://www.youtube.com/watch?v=1-XF67SkX5g"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/1819/problem/A",
+                        "video": "https://www.youtube.com/watch?v=cUxNocbEpPo"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://codeforces.com/contest/1437/problem/B",
+                        "video": "https://www.youtube.com/watch?v=odaNYSxSvWE"
+                    },
+                    {
+                        "problem": "https://www.spoj.com/problems/ABSP1/",
+                        "video": "https://www.youtube.com/watch?v=OGPDlFo_FkY"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://cses.fi/problemset/task/2205",
+                        "video": "https://www.youtube.com/watch?v=nWspwP2s_nc"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/1889/problem/A",
+                        "video": "https://www.youtube.com/watch?v=IGiyZmmIu2A"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                        "problem": "https://atcoder.jp/contests/abc096/tasks/abc096_d",
+                        "video": "https://www.youtube.com/watch?v=QulHTAPTgfQ"
+                    },
+                    {
+                        "problem": "https://codeforces.com/problemset/problem/1671/D",
+                        "video": "https://www.youtube.com/watch?v=aH5WkIt1Ceg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "week": "week12 - Prefix Sums & Difference Arrays",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://cses.fi/problemset/task/1646",
+                        "video": "https://www.youtube.com/watch?v=xfwxqgU9wUw"
+                    },
+                    {
+                        "problem": "https://cses.fi/problemset/task/1661",
+                        "video": "https://www.youtube.com/watch?v=al90Gj494-8"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/maximum-population-year/description/",
+                        "video": "https://www.youtube.com/watch?v=LBo8FLy1Tto"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/433/problem/B",
+                        "video": "https://www.youtube.com/watch?v=t7VR1mbn4_g"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://cses.fi/problemset/task/1652",
+                        "video": "https://www.youtube.com/watch?v=oCgeBemht1U"
+                    },
+                    {
+                        "problem": "https://cses.fi/problemset/task/1662",
+                        "video": "https://www.youtube.com/watch?v=NriTRfbCUDk"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+                        "video": "https://www.youtube.com/watch?v=ctJXu1pKfRk"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://www.codechef.com/practice/course/zco-inoi-problems/ZCOPRAC/problems/ZCO22001",
+                        "video": "https://www.youtube.com/watch?v=fBnnbBNS5gA"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/276/problem/C",
+                        "video": "https://www.youtube.com/watch?v=kzZlmYdmPPc"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                        "problem": "https://codeforces.com/contest/816/problem/B",
+                        "video": "https://www.youtube.com/watch?v=_2Kg6joYOnE"
+                    },
+                    {
+                        "problem": "https://codeforces.com/contest/1398/problem/C",
+                        "video": "https://www.youtube.com/watch?v=WI5ofmf4h_4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "week": "week13 - Binary Search & Merge Sort",
+        "days": [{
+                "title": "day1",
+                "tasks": [{
+                        "problem": "https://leetcode.com/problems/find-peak-element/",
+                        "video": "https://www.youtube.com/watch?v=mViNLp6ekL8"
+                    },
+                    {
+                        "problem": "",
+                        "video": "https://www.youtube.com/watch?v=AyjSPKfDPe8"
+                    }
+                ]
+            },
+            {
+                "title": "day2",
+                "tasks": [{
+                        "problem": "https://atcoder.jp/contests/abc119/tasks/abc119_d",
+                        "video": "https://www.youtube.com/watch?v=-RgYQKGzn58"
+                    },
+                    {
+                        "problem": "https://leetcode.com/problems/search-a-2d-matrix/description/",
+                        "video": "https://www.youtube.com/watch?v=gyxi2Xfqqg0"
+                    }
+                ]
+            },
+            {
+                "title": "day3",
+                "tasks": [{
+                        "problem": "https://www.spoj.com/problems/INVCNT/",
+                        "video": "https://www.youtube.com/watch?v=GPkxNw9p9w8"
+                    },
+                    {
+                        "problem": "https://codeforces.com/gym/101853/problem/C",
+                        "video": "https://www.youtube.com/watch?v=8MG9URYpe44"
+                    }
+                ]
+            },
+            {
+                "title": "day4",
+                "tasks": [{
+                        "problem": "https://codeforces.com/problemset/problem/251/A",
+                        "video": "https://www.youtube.com/watch?v=nfSnlYHJYgg&feature=youtu.be"
+                    },
+                    {
+                        "problem": "https://www.spoj.com/problems/AGGRCOW/",
+                        "video": "https://www.youtube.com/watch?v=UkRTZiYJ41M"
+                    }
+                ]
+            },
+            {
+                "title": "day5",
+                "tasks": [{
+                    "problem": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/",
+                    "video": "https://www.youtube.com/watch?v=Ao0-DLS_O1c&feature=youtu.be"
+                }]
+            }
+        ]
+    }
+]
